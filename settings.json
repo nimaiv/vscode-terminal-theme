@@ -1,4 +1,8 @@
-"workbench.colorCustomizations": {
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Rusty One Dark",
+    "terminal.integrated.cursorStyle": "line",
+    "workbench.colorCustomizations": {
         "terminal.ansiBlack": "#585f6d",
         "terminal.ansiRed": "#d95360",
         "terminal.ansiGreen": "#5ab977",
@@ -20,3 +24,4 @@
         "terminal.selectionBackground": "#2f363e",
         "terminalCursor.foreground": "#f6f7ec"
     },
+}
